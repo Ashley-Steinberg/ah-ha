@@ -1,6 +1,7 @@
 body {
 	background-image: url(../images/dots.png);
 	background-color: #55C0B4;
+	font-family: 'Montserrat', sans-serif;
 } 
 
 .logo {
@@ -45,10 +46,36 @@ body {
 	border-radius: 15px;
 }
 
-.maintext {
-	padding-top: 20px;
-	padding-bottom: 20px;
+.textr {
+	.margin-top: 35px;
+	padding-top: 25px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 30px;
+	background-color: #57C0B3;
+	border-radius: 15px;
+	color: #FFF;
+}
+
+.maintext-main {
+	padding-top: 5px;
+	padding-bottom: 5px;
 	color: #57C0B3;
+}
+
+.ah-ha-video {
+	padding-top: 5px;
+}
+
+.maintext {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #57C0B3;
+}
+
+.jumbotron{
+	color: #00A0A6;
+    background-color:transparent !important; 
 }
 
 .col-lg-12 main {
